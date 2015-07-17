@@ -8,9 +8,10 @@ public class TestLocaleI18N {
 	/* 
 	La carga del ResourceBundle puede hacerse des de fichero, des del contexto de una aplicación, 
 	des del propio entorno en el que se esté ejecutando esta clase Java.
+	
 	En este caso de ejemplo se utiliza el acceso al fichero properties ubicado dentro 
-	del mismo paquete que la clase principal. En un futuro, se realizaran pruebas con 
-	el resto de mecanismos de acceso.   
+	del mismo paquete que la clase principal. 
+	En un futuro, se realizaran pruebas con	el resto de mecanismos de acceso.   
 	*/
 	public static void main(String[] args) throws Exception {
 
